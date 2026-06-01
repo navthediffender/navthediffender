@@ -24,10 +24,12 @@ I completed practical cybersecurity training through HyperionDev / University of
 ## 📌 Featured Projects
 
 ### Reconnaissance Information Gathering Task
+
 Cybersecurity reconnaissance task using Kali Linux, DNS lookup, subdomain enumeration, Wappalyzer, and Google search operators.  
 [View Project](https://github.com/navthediffender/reconnaissance-information-gathering-task)
 
 ### SQL Injection Exploit and Secure Demo
+
 Python and SQLite demo showing SQL injection vulnerabilities and secure fixes using parameterised queries.  
 [View Project](https://github.com/navthediffender/sql-injection-exploit-and-secure-demo)
 
@@ -36,14 +38,17 @@ Linux automation project using Bash scripts and cron jobs for scheduled backups 
 [View Project](https://github.com/navthediffender/linux-automation-cron-jobs)
 
 ### Task Manager System — Python File Handling Project
+
 Python task management application using login, task assignment, reporting, and file handling.  
 [View Project](https://github.com/navthediffender/Task-Manager-System-Python-File-Handling-Project)
 
 ### eBookstore Database System
+
 Python and SQLite bookstore inventory system demonstrating CRUD operations and database handling.  
 [View Project](https://github.com/navthediffender/ebookstore-database-system)
 
 ### Caesar Cipher Tool
+
 Beginner Python encryption tool for encoding and decoding messages using the Caesar cipher method.  
 [View Project](https://github.com/navthediffender/caesar-cipher-tool)
 
